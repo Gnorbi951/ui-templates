@@ -10,6 +10,7 @@ const MainPage = () => {
         <>
         <div className={"mainpage-background"}>
           <Particles
+          className={"mainpage-background"}
           params={{
               "particles": {
                 "number": {
