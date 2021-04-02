@@ -14,7 +14,7 @@ const MainPage = () => {
           params={{
               "particles": {
                 "number": {
-                  "value": 90,
+                  "value": 60,
                   "density": {
                     "enable": true,
                     "value_area": 800
