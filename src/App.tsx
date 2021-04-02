@@ -1,4 +1,5 @@
 import React from 'react';
+import logo from './logo.svg';
 import './App.css';
 
 const App = () => {
@@ -6,7 +7,7 @@ const App = () => {
 
   return (
     <>
-        <p>My app ;)</p>
+        My app
     </>
   )
 
